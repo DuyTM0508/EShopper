@@ -5,5 +5,7 @@
 * Project with Java-JSP/Servlet, HTML/CSS/, Java Script, API-VNPay-Google,
  SQL Server, Visual Studio 2021, Bootstrap, Responsive Web Design.
 
+### ScreenShots
+![HomePage](https://github.com/DuyTM0508/LapHub/blob/main/images/screenShot.png)
 
 ### © 2024 DuyTM
